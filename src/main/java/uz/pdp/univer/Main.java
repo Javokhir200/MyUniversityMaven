@@ -7,6 +7,6 @@ import uz.pdp.univer.domain.User;
 public class Main {
     public static void main(String[] args) {
         User user = new User();
-        User us = new User()
+        User us = new User();
     }
 }
