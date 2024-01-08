@@ -9,6 +9,8 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class User {
     static int sequence = 0;
+//    asd
+    //wefwefwef
     {
         sequence++;
     }
